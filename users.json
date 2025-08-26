@@ -1,1 +1,6 @@
-{}
+{
+  "name": "John Doe 18",
+  "email": "john18@example.com",
+  "age": 48,
+  "createdAt": "2025-08-26T19:36:31.119Z"
+}
