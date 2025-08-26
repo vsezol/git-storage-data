@@ -1,7 +1,7 @@
 {
   "user": {
+    "id": 1,
     "name": "John Doe",
-    "age": 31,
-    "createdAt": "2025-08-26T19:53:52.475Z"
+    "age": 30
   }
 }
