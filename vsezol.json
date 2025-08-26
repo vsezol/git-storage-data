@@ -3,5 +3,9 @@
     "id": 1,
     "name": "Vsevolod Zolotov",
     "age": 23
+  },
+  "post": {
+    "authorId": 1,
+    "text": "Hello, world!"
   }
 }
