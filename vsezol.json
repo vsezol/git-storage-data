@@ -2,5 +2,10 @@
   "post": {
     "authorId": 1,
     "text": "Hello, world!"
+  },
+  "user": {
+    "id": 1,
+    "name": "Vsevolod",
+    "age": 23
   }
 }
