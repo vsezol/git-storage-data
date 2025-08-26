@@ -12,6 +12,16 @@
     {
       "authorId": 1,
       "text": "First post"
-    }
+    },
+    [
+      {
+        "authorId": 1,
+        "text": "Second post"
+      },
+      {
+        "authorId": 1,
+        "text": "Third post"
+      }
+    ]
   ]
 }
