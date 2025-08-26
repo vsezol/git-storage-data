@@ -3,12 +3,12 @@
     "authorId": 1,
     "text": "Hello, world!"
   },
-  "posts": {
-    "0": {
+  "posts": [
+    {
       "authorId": 1,
       "text": "Hello, world!"
     }
-  },
+  ],
   "user": {
     "id": 1,
     "name": "Vsevolod Zolotov",
