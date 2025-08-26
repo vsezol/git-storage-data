@@ -2,15 +2,5 @@
   "post": {
     "authorId": 1,
     "text": "Hello, world!"
-  },
-  "posts": {
-    "0": {
-      "authorId": 1,
-      "text": "Second post"
-    },
-    "1": {
-      "authorId": 1,
-      "text": "Third post"
-    }
   }
 }
