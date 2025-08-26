@@ -3,5 +3,11 @@
     "id": 1,
     "name": "Vsevolod Zolotov",
     "age": 23
-  }
+  },
+  "posts": [
+    {
+      "authorId": 1,
+      "text": "First post"
+    }
+  ]
 }
